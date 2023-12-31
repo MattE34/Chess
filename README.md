@@ -2,6 +2,7 @@
 Simulate a game of chess with the terminal printing out the board after each move is executed.
 
 You may run this code (PlayChess.java) on VSCode or any other IDE of your choice.
+
 Commands:
 - quit: ends the game and may be restarted by running PlayChess.java
 - <location 1> <location 2> draw?: executes the following move and then prints message: DRAW
