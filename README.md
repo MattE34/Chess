@@ -1,4 +1,4 @@
-# Chess
+# Chess Simulator
 Simulate a game of chess with the terminal printing out the board after each move is executed.
 
 You may run this code (PlayChess.java) on VSCode or any other IDE of your choice.
